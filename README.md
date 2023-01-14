@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Prabhat619
-- 👀 I’m interested in Web Development UI designing Problem Solving
-- 🌱 I’m currently learning Java Script and React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development UI designing and Problem Solving
+- 🌱 I'm a tech Enthusiast who loves to learn new tech and solutions....
+- 💞️ I’m looking forward toward more open source contribution 
 - 📫 mail at prabhatdwivedi224@gmail.com
 
 <!---
-Prabhat619/Prabhat619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ I have hand on experience on various technologies like 
+ React JS , vanilla JS ,HTML5, CSS, Bootstrap,SCSS
 --->
